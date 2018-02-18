@@ -2,6 +2,6 @@
 def display_board
   "___|___|___"
   "___|___|___"
-  "  |  |  "
+  "   |   |   "
 end
 puts display_board
